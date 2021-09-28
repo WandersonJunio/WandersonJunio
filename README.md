@@ -2,18 +2,18 @@
   Hi there 👋 I'm Wanderson Junio 👨‍💻
 </h1>
 
-<p>Skills</p>
-
 <p align='center'>
   BackEnd developer from Belo Horizonte, Brazil.
 </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wandersonjunio&show_icons=true&count_private=true&theme=radical" width="350"></a>
+    
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wandersonjunio)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 <p align='center'>
-  
   <a href="https://wa.me/5531972008240?text=Olá!%20Wanderson">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
