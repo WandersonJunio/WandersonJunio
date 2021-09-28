@@ -2,6 +2,8 @@
   Hi there 👋 I'm Wanderson Junio 👨‍💻
 </h1>
 
+<p>Skills</p>
+
 <p align='center'>
   BackEnd developer from Belo Horizonte, Brazil.
 </p>
