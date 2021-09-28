@@ -6,7 +6,7 @@
   BackEnd developer from Belo Horizonte, Brazil.
 </p>
 
-<a align='center'>
+<div align='center'>
 | Skills |      Years of Experience     | Legend  | 
 |----------------|:-------------:|:-------------:|
 | PHP | ⭐️ ⭐️ ⭐️ ⭐️ | 2 years of experience | 
@@ -14,7 +14,7 @@
 | Swift | ⭐️ ⭐️ | Work in progress | 
 | CSS | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
 | HTML | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
- </a>
+ </div>
 
 
 <p align='center'>
