@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=WandersonJunio&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wandersonjunio&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="350"></a>
 </p>
 
 <p align='center'>
