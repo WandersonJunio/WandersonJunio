@@ -6,13 +6,16 @@
   BackEnd developer from Belo Horizonte, Brazil.
 </p>
 
+<p align='center'>
 ##Skills 🔥🔥🔥
 Java ☕ 🚀
 Spring Ecossystem 🍃
 PHP 🐘
 CSS 🌟
 HTML 🌟
-JavaScript 🌟
+JavaScript 🌟  
+</p>
+
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wandersonjunio&show_icons=true&count_private=true&theme=radical" width="350"></a>
