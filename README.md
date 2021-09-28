@@ -21,5 +21,5 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:wanderson.junioantunes@gmail.com'>pedro.bonfim.13@gmail.com</a>
+  📫 How to reach me: <a href='mailto:wanderson.junioantunes@gmail.com'>wanderson.junioantunes@gmail.com</a>
 </p>
