@@ -7,6 +7,17 @@
 </p>
 
 <p align='center'>
+| Skills |      Years of Experience     | Legend  | 
+|----------------|:-------------:|:-------------:|
+| PHP | ⭐️ ⭐️ ⭐️ ⭐️ | 2 years of experience | 
+| JavaScript |    ⭐️ ⭐️ ⭐️   | 1 year of experience | 
+| Swift | ⭐️ ⭐️ | Work in progress | 
+| CSS | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
+| HTML | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
+ </p>
+
+
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wandersonjunio&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
 
