@@ -8,9 +8,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wandersonjunio&show_icons=true&count_private=true&theme=radical" width="350"></a>
-    
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wandersonjunio)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wandersonjunio" width="350"></a>
 </p>
 
 <p align='center'>
