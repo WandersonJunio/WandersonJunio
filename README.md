@@ -6,7 +6,7 @@
   BackEnd developer from Belo Horizonte, Brazil.
 </p>
 
-&#x1F977;
+\01F977
 | Skills |      Years of Experience     | Legend  | 
 |----------------|:-------------:|:-------------:|
 | PHP | ⭐️ ⭐️ ⭐️ ⭐️ | 2 years of experience | 
