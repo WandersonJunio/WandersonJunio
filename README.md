@@ -6,6 +6,12 @@
   FullStack Developer from Belo Horizonte, Brazil.
 </p>
 
+<div align="center">
+  <a href="https://github.com/engenny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engenny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenny&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wandersonjunio&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
