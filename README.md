@@ -19,4 +19,6 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:wanderson.junioantunes@gmail.com'>wanderson.junioantunes@gmail.com</a>
 </p>
+
 ##
+    ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
