@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  BackEnd developer from Belo Horizonte, Brazil.
+  FullStack Developer from Belo Horizonte, Brazil.
 </p>
 
 <p align='center'>
